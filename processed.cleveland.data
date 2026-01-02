@@ -1,0 +1,15 @@
+
+---
+
+## 🧠 ML Algorithm
+- K-Nearest Neighbors (KNN)
+- Data scaling using StandardScaler
+- Binary classification (Disease / No Disease)
+
+---
+
+## 🚀 How to Run
+
+### 1️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
